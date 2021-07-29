@@ -1,0 +1,23 @@
+{
+  "name": "livecode-assignment",
+  "version": "1.0.0",
+  "description": "albelli customers place orders for all kinds of products: mugs, books, canvases, prints and so on. Suppose we represent a product as a string containing the product’s name, like \"book\" or \"canvas\". Likewise, we represent a customer order as an array of products Write us a function that accepts two orders as arguments and returns the products that they have in common.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelinesparreboom/livecode-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evelinesparreboom/livecode-assignment/issues"
+  },
+  "homepage": "https://github.com/evelinesparreboom/livecode-assignment#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.1"
+  }
+}
